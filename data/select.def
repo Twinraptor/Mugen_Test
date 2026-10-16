@@ -1,0 +1,303 @@
+;---------------------------------------------------------------------
+[Characters]
+
+; row 1
+Superman, stages/metropolis.def
+Batman, stages/paw_gotham.def
+wonder_woman, stages/themyscira.def
+Shazam_DC, stages/shazam5.def
+GLHal, stages/GLbg.def
+#leave blank#
+#leave blank#
+#leave blank#
+#leave blank#
+Surfer, stages/spaceout.def
+thor, stages/asgard_bifrost.def
+Storm, stages/Storm_Stage.def
+capdcm, stages/shield_helicarrier.def
+savagehulk, stages/gammabase.def
+
+; row 2
+kon-el, stages/TitansTower.def
+nightwing, stages/bayside.def
+Ice, stages/tower.def
+Aquaman, stages/AtlantianWaters.def
+flash, stages/Flash.def
+#leave blank#
+#leave blank#
+#leave blank#
+#leave blank#
+Quicksilver, stages/Cerebro.def
+Namor, stages/SHIELDAtlantisOutpost.def
+Iceman, stages/iceman-xm.def
+Gambit, stages/showdown.def
+spiderman, stages/NewYorkMarvel.def
+
+; row 3
+supergirl, stages/Daily_Planet.def
+robin3, stages/TitanIsland.def
+Starfire, stages/GoldenGate.def
+beastboy, stages/TitanIsland.def
+Cyborg, stages/hideoutcyborg.def
+#leave blank#
+#leave blank#
+#leave blank#
+#leave blank#
+Cyclops, stages/manhattan_night.def
+beast, stages/XLab.def
+Psylocke, stages/Express.def
+CaptainMarVell, stages/space.def
+MsMarvel, stages/space.def
+
+; row 4
+beyond, stages/bayside.def
+Batgirl-Zvitor, stages/paw_gotham.def
+Zatanna, stages/Gotham_museum.def
+Steel Dc vs Marvel, stages/Steel_Stage.def
+Fire, stages/cataract.def
+#leave blank#
+#leave blank#
+#leave blank#
+#leave blank#
+JeanGrey, stages/bluemvc.def
+ColossusEX, stages/mutant_hunting.def
+crystal, stages/TheHiddenLand.def
+marrow, stages/showdown.def
+Nightcrawler, stages/Abandoned_Cathedral.def
+
+; row 5
+Gardner, stages/GLbg.def
+JohnStewart, stages/OanMoon.def
+Red Tornado, stages/HallofJustice.def
+vixen, stages/tower.def
+TheAtom, stages/HallofJustice.def
+#leave blank#
+#leave blank#
+#leave blank#
+#leave blank#
+professorx, stages/Cerebro.def
+blackcat, stages/cats_on_the_roof.def
+StrongGuy, stages/yancyst.def
+Warmachine, stages/ironman_stage.def
+ironman, stages/ironman_stage.def
+
+; row 6
+Dr.Fate, stages/RealmOfDrStrangfate.def
+Hawkman, stages/ThanagarianTemple.def
+GreenArrowv2, stages/ivygarden.def
+catwoman, stages/cats_on_the_roof.def
+dexstarr, stages/cats_on_the_roof.def
+#leave blank#
+#leave blank#
+#leave blank#
+#leave blank#
+Wasp, stages/avengersmvc.def
+Elektra, stages/theleague.def
+DevilJ, stages/theleague.def
+Angel
+DoctorStrange, stages/RealmOfDrStrangfate.def
+
+; row 7
+Plasticman, stages/HallofJustice.def
+Firestorm, stages/Asteroid_M.def
+MartianManhunter, stages/tower.def
+Ten, stages/Gotham_museum.def, order=2
+wildcat, stages/DeathCage.def, order=2
+#leave blank#
+#leave blank#
+#leave blank#
+#leave blank#
+Sunfire2, stages/Yashida_House.def
+Rogue, stages/XMvsSF_Temple.def
+thething, stages/yancyst.def
+humantorch, stages/baxterbg.def
+MrFantastic, stages/baxterbg.def
+
+; row 8
+lobo, stages/lobobar.def
+Etrigan, stages/Jason_Blood_Apartment.def
+thequestion, stages/gothambay.def
+Despero, stages/kalanor.def, order=2
+MajorForce, stages/StarlabsSG.def, order=2
+#leave blank#
+#leave blank#
+#leave blank#
+#leave blank#
+wonderman, stages/searchforwanda-EoH.def
+Bishop, stages/Danger_Room.def
+Ironfist, stages/palaceofthestardragon.def
+GhostRider, stages/Cemetery.def
+WxDCvsMC, stages/cataracts.def
+
+; row 9
+CyborgSuperman, stages/Krypton.def, order=2
+Erradicator, stages/Daily_Planet.def
+Rorschach, stages/gothambay.def
+silver banshee, stages/STARlabs.def, order=2
+Parasite, stages/STARlabs.def, order=2
+#leave blank#
+#leave blank#
+#leave blank#
+#leave blank#
+MVCSuperskrull, stages/PlanetEarth.def, order=3
+silversam, stages/silversamurai_stage.def, order=2
+Punisher, stages/terrace.def
+Deadpool, stages/HYDRABaseOnAlert.def
+sentinel, stages/Genosha.def, order=2
+
+; Baddies
+Bizarro, stages/Lexcorp.def, order=2
+plasticzarro, stages/Lexcorp.def, order=2
+captain_boomerang, stages/flashmuseum.def, order=2
+AZRAEL, stages/Jason_Blood_Apartment.def, order=2
+Scarecrow, stages/EscapeFromArkham.def, order=2
+#leave blank#
+#leave blank#
+#leave blank#
+#leave blank#
+Greengoblin, stages/greengoblin.def, order=3
+Hobgoblin, stages/greengoblin.def, order=2
+Taskmaster, stages/WhiteHouseIncident.def, order=2
+shuma, stages/endless_desert.def, order=2
+hydroman, stages/NuclearPowerPlant.def, order=2
+
+; Middle Bosses
+clayface, stages/GothamInAshes.def, order=2
+JasonTodd, stages/GothamInAshes.def, order=2
+blackadam, stages/shazam5.def, order=2
+sinestro, stages/Lantern_Warzone.def, order=2
+Mongul, stages/debstamIV.def, order=3
+#leave blank#
+#leave blank#
+#leave blank#
+#leave blank#
+juggy, stages/puerto.def, order=2
+M.O.D.O.K, stages/doom.def, order=2
+ElectroBeta, stages/VulturesNest.def, order=2
+vulturebeta, stages/VulturesNest.def, order=2
+sandman, stages/NuclearPowerPlant.def, order=2
+
+; Hyper Ultra Evil
+Doomsday, order=3
+Killercroc, stages/sewer.def, order=2
+banecvs, stages/GothamInAshes.def, order=2
+joker, stages/EscapeFromArkham.def, order=3
+HarleyQuinn, stages/EscapeFromArkham.def, order=2
+#leave blank#
+#leave blank#
+#leave blank#
+#leave blank#
+MVC2_Spiral, stages/spiralbg.def, order=2
+Carnage, stages/RykersIslandPrison.def, order=2
+Venom, stages/web.def, order=2
+sabretooth, stages/wolvmsh.def, order=2
+OmegaRed, stages/TransSiberian.def, order=2
+
+; Bosses
+darkseid3, stages/ApokolipsNow.def, order=3
+Luthor, stages/Lexcorp.def, order=3
+brimstone, stages/blackheart.def, order=3
+Metallo, stages/StarlabsSG.def, order=2
+brainiac, stages/brainstar.def, order=2
+#leave blank#
+#leave blank#
+#leave blank#
+#leave blank#
+magneto, stages/magneto_stage.def, order=3
+ultron, stages/Ultrongenerator.def, order=2
+Blackheart, stages/blackheart.def, order=3
+doomdcm, stages/latveria.def, order=3
+thanos, stages/thanos_stage.def, order=3
+
+; gest
+RyuGGN, stages/suzaku.def
+Guile, stages/guilebg2.def
+dhalsim, stages/sfa3dhalsim.def
+sakura-mvc, stages/sakura.def
+ChunLi, stages/tai_chi.def
+#leave blank#
+#leave blank#
+#leave blank#
+#leave blank#
+Shadowlady, stages/shinmb.def
+karin, stages/karin.def
+Sagat_MvC, stages/sagat.def
+MvC2 Charlie, stages/hangar.def
+mvc_ken, stages/sfz3_hotel-posada-de-tampico.def
+
+; gest
+Zangief, stages/sfa3-zangiefstage.def
+MorriganE, stages/chateau.def
+Bulleta, stages/ihorse.def
+capcom, stages/mall.def
+Megaman MVC2, stages/MEGAMAN.def
+#leave blank#
+#leave blank#
+#leave blank#
+#leave blank#
+MvC-EoH_Roll_DCL, stages/MEGAMAN.def
+Strider Hiryu MVC2, stages/XX'NEO'XX.def
+Neo Anakaris, stages/thirst.def
+lilith_mvc, stages/chateau.def
+Blanka_MvC, stages/blanka.def
+
+; gest
+jshomer2.2
+donpatch
+JinSaotome, stages/CB-Space-Fleet.def
+MVC2_MBison, stages/vtol.def
+xMvCGoukix, stages/kiga.def
+#leave blank#
+#leave blank#
+#leave blank#
+#leave blank#
+C.Akuma_MvC, stages/crossoverDG.def
+Vega
+Hayato, stages/CB-Space-Fleet.def
+Rubyheart3, stages/karin.def
+peter
+
+; Big Bosses & Bonuses
+MSTrain
+thanoseid, stages/FraggedCityFinalVersion.def, order=3
+Bizarnage, stages/FraggedCityFinalVersion.def, order=2
+Ferroman, stages/FraggedCityFinalVersion.def
+IronLantern, stages/FraggedCityFinalVersion.def
+#leave blank#
+#leave blank#
+#leave blank#
+#leave blank#
+blob, stages/Space_Port.def, order=2
+Surtur, stages/blackheart.def, order=3
+apocalypse, stages/apoc.def, order=3
+Galactus, stages/GalactusOutpost.def, order=3
+Hydra, stages/HYDRABaseOnAlert.def
+
+;-----------------------
+[ExtraStages]
+stages/Spanish Ninjutsu.def
+stages/legion of doom2.def
+stages/Mansion In The Sky.def
+stages/battleinthesky.def
+stages/DazzlerLIVE.def
+stages/the_deep.def
+stages/avalon.def
+stages/ironheights.def
+stages/TheSkyIsBleeding.def
+stages/Doomsday in Metropolis.def
+stages/Symbiote Apocalypse.def
+stages/stage1.def
+
+;---------------------------------------------------------------------
+[Options]
+ ;Here you set the maximum number of matches to fight before game ends
+ ;in Arcade Mode. The first number is the number of matches against
+ ;characters with order=1, followed by order=2 and order=3 respectively.
+ ;For example, for 4,3,1 you will fight up to 4 randomly-picked
+ ;characters who have order=1, followed by 3 with order=2 and 1 with
+ ;order=3.
+arcade.maxmatches = 6,3,1,0,0,0,0,0,0,0
+
+ ;Maximum number of matches to fight before game ends in Team Mode.
+ ;Like arcade.maxmatches, but applies to Team Battle.
+team.maxmatches = 4,1,1,0,0,0,0,0,0,0

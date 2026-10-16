@@ -1,0 +1,44 @@
+# Copyrighted content from the "DC vs Marvel" WinMUGEN pack is kept local only.
+# See README.md ("Getting the assets") for where it comes from.
+
+# Characters: keep only IKEMEN GO's stock Kung Fu Man
+/chars/*
+!/chars/kfm/
+!/chars/kfm_zaxis/
+!/chars/kfm_zss/
+!/chars/kfm720/
+# ...except character fixes we made, so the edits are visible
+!/chars/beastboy/
+/chars/beastboy/*
+!/chars/beastboy/beastboy.def
+
+# Stages: keep only IKEMEN GO's stock stages
+/stages/*
+!/stages/interactivestage/
+!/stages/interactivestage.*
+!/stages/kfm.*
+!/stages/stage0.*
+!/stages/stage0-720.*
+!/stages/stage1.*
+!/stages/stage3d.*
+!/stages/stage3d_outline.*
+!/stages/stageZ.*
+# ...except stage fixes we made, so the edits are visible
+!/stages/GoldenGate.def
+
+# Music
+/sound/*
+!/sound/.keep
+/new sound/
+
+# DC vs Marvel screenpack art/sound (keep the .def/.cns config files)
+/data/dcvm/**/*.sff
+/data/dcvm/**/*.snd
+/data/dcvm/**/*.pcx
+/data/dcvm/**/*.fnt
+
+# Personal/local game data
+/save/*
+!/save/config.ini
+/screenshots/
+/stages/stage1.mod

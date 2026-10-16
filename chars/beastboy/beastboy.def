@@ -1,0 +1,49 @@
+;=================================;
+; Character Def File for BeastBoy ;
+;   by the DC vs Marvel Team      ;
+;   for WinMUGEN v. 06,14,2003    ;
+;  http://marvelvsdcu.tripod.com  ;
+;    Made with Fighter Factory    ;
+;=================================;
+
+[Info]
+name ="Beastboy"
+displayname ="Beastboy"
+versiondate =11,11,2006
+mugenversion =04,06,2004
+author ="Marvelvsdcu"
+pal.defaults=1,2,3,4,5,6,7,8
+
+[Files]
+
+;=== A.I.: if you prefer him without, just add a ";" on the first line below and remove the one on the next line
+;cmd =Beastboy.cmd
+;cmd = BeastNoAI.cmd (for easy difficulty)
+cmd =Beastboynocombo.cmd ;(for hard difficulty)
+
+stcommon =DCvsMarvelcommon1.cns
+sprite   =Beastboy.sff
+anim     =Beastboy.air
+cns      =Beastboy.cns
+st       =basics.st
+sound    =beastboy.snd
+pal1=beastboy.act
+pal2=blackandwhite.act
+pal3=changeling.act
+pal4=comics.act
+pal5=cold.act
+pal6=cool.act
+pal7=warm.act
+pal8=extra.act
+st1=hypers.cns
+st2=specials.st
+st3=helpers.st
+st4=throws.st
+st5=overrides.st
+
+;=== Palettes ===
+
+[Arcade]
+intro.storyboard=intro.def
+ending.storyboard=
+;ending.storyboard=
